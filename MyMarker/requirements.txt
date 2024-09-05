@@ -1,0 +1,7 @@
+# my marker
+
+numpy
+pandas
+python-opencv
+matplotlib
+pillow
